@@ -1,0 +1,13 @@
+# 💭 Insights e Aprendizados
+
+Durante o desafio **Code Girls Santander**, percebi que **documentar o que aprendo é tão importante quanto estudar o conteúdo**.  
+
+Mesmo sem acompanhar todas as aulas ao vivo, consegui organizar minhas ideias sobre **AWS Step Functions** e entender conceitos básicos de automação de workflows.  
+
+✨ Principais aprendizados:
+- Step Functions permite criar **fluxos automatizados na nuvem** de forma visual.  
+- Cada fluxo é chamado de **State Machine**, e cada etapa é um **Estado**.  
+- A integração com **Lambda** ajuda a executar tarefas automaticamente.  
+- Documentação clara facilita a revisão futura e ajuda outras pessoas a entenderem o fluxo.  
+
+💡 Lição: “Não precisamos saber tudo antes de começar. Dar o primeiro passo e registrar o aprendizado é o que conta.”
